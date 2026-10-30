@@ -109,7 +109,7 @@ Criar uma calculadora em Java aplicando testes, tratamento de erros, refatoraç�
 |---|---|---|
 | Java | 21 | Desenvolvimento |
 | JDK | 21 | Compilação |
-| Git | — | Controle de versão |
+| Git | 2.49.0 | Controle de versão |
 | GitHub | — | Repositório remoto |
 | JavaDoc | — | Documentação |
 | Eclipse IDE | 2025-03 | Ambiente de desenvolvimento |
