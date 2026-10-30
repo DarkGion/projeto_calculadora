@@ -109,7 +109,7 @@ Criar uma calculadora em Java aplicando testes, tratamento de erros, refatoraç�
 |---|---|---|
 | Java | 21 | Desenvolvimento |
 | JDK | 21 | Compilação |
-| Git | XX | Controle de versão |
+| Git | — | Controle de versão |
 | GitHub | — | Repositório remoto |
 | JavaDoc | — | Documentação |
 | Eclipse IDE | 2025-03 | Ambiente de desenvolvimento |
@@ -225,5 +225,5 @@ Link do repositório: https://github.com/DarkGion/projeto_calculadora
 
 Branches:
 
-- `main`: branch principal, com a versão inicial do projeto;
+- `main`: branch principal, com a versão final do projeto (já com o conteúdo da `Refatoracao`);
 - `Refatoracao`: versão refatorada, com JavaDoc e testes atualizados.
